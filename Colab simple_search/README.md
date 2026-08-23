@@ -4,6 +4,8 @@
 
 Acesse o **Google Colab** pelo navegador e faça login com uma conta Google.
 
+Ou rode direto do link público: https://colab.research.google.com/drive/13CasQm9724JP2ARb75S0oYOkGiHc30Ux?usp=sharing
+
 Na página inicial, selecione:
 
 **Arquivo → Fazer upload de notebook**
